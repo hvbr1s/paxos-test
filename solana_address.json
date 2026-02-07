@@ -1,0 +1,15 @@
+{
+  "id": "f5673d58-d383-44a5-8abc-fad1a06cdbd4",
+  "profile_id": "a7a99e88-bd7b-4154-a33b-7b8edfd79a71",
+  "customer_id": "aaa6abc4-d77a-4b81-a44d-62b17f8211f5",
+  "crypto_network": "SOLANA",
+  "identity_id": "aaa6abc4-d77a-4b81-a44d-62b17f8211f5",
+  "ref_id": "da_ec1a8c83-bc64-420d-9994-f0cd268f0909",
+  "address": "3mPau61wjFnTyfdDUNeybssxrRHrRknuVTipyqtBJeam",
+  "account_id": "00000000-0000-0000-0000-000000000000",
+  "conversion_target_asset": "USD",
+  "compatible_crypto_networks": [
+    "SOLANA"
+  ],
+  "created_at": "2026-02-07T21:53:32.435264Z"
+}

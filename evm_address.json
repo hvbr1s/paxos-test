@@ -1,0 +1,19 @@
+{
+  "id": "b5e8636e-0568-460b-a4be-31e23ea38c37",
+  "profile_id": "a7a99e88-bd7b-4154-a33b-7b8edfd79a71",
+  "customer_id": "aaa6abc4-d77a-4b81-a44d-62b17f8211f5",
+  "crypto_network": "ETHEREUM",
+  "identity_id": "aaa6abc4-d77a-4b81-a44d-62b17f8211f5",
+  "ref_id": "da_0c5671ac-c3ba-406b-abdf-3ddeb1d56a5c",
+  "address": "0xA4F7193B3f5442862e8E3a19C262B6287E9CFCB4",
+  "account_id": "00000000-0000-0000-0000-000000000000",
+  "conversion_target_asset": "USD",
+  "compatible_crypto_networks": [
+    "ETHEREUM",
+    "POLYGON_POS",
+    "ARBITRUM_ONE",
+    "XLAYER",
+    "BASE"
+  ],
+  "created_at": "2026-02-07T21:34:49.274160Z"
+}
